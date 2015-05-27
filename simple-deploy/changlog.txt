@@ -1,0 +1,4 @@
+These files come from the following github project:
+https://github.com/markomarkovic/simple-php-git-deploy
+
+Please be sure to check for a version newer than
